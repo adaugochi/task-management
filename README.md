@@ -18,12 +18,12 @@ You have to clone this repo using either `HTTPS` or `SSH`
 
 - HTTPS
 ```bash
-git clone https://github.com/adaugochi/fashion-app.git
+git clone https://github.com/adaugochi/task-management.git
 ```
 
 - SSH
 ```bash
-git clone git@github.com:adaugochi/fashion-app.git
+git clone git@github.com:adaugochi/task-management.git
 ```
 
 ## Install Dependencies
